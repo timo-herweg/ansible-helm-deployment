@@ -1,7 +1,7 @@
 
 # Ignore some config files/dir
 config/var/*
-config/ansible.log
+config/tmp/*
 config/known_hosts
 
 # Ignore uptream code directory
